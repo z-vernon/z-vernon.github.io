@@ -14,10 +14,14 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Experience
+    url: /Experience
+  - title: Skills
+    url: /Skills
+  - title: Projects
+    url: /Projects
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
