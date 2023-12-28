@@ -19,6 +19,8 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+    title: Hobbies
+    url: /
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
