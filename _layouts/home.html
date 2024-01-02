@@ -15,7 +15,8 @@ layout: main
 {% endif %}
 
 <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
-    
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
+    <script src="Double.js"></script> 
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
        {% assign featured = posts.first %}
