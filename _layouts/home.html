@@ -17,7 +17,7 @@ layout: main
 <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
     <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
     <script src="Double.js"></script>
-    <!--{% if site.show_hero and paginator == nil or paginator.page == 1 %}
+    {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         
        {% assign featured = posts.first %}
         <section class="hero" style="background-image: url({{ featured.image }})">
@@ -38,7 +38,7 @@ layout: main
                         <svg><use xlink:href="#icon-read"></use></svg>
                         <span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
                     </a>
-                </div>-->
+                </div>
     <div id = "doublecode" class="""></div>
             </div>
             
