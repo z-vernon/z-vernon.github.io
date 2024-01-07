@@ -28,8 +28,9 @@ var tracer;
 
 function setup() {
   // This creates the space for the graphics to be displayed
+  
   var canvas = createCanvas(700, 370);
-  canvas.parent('doublecode');
+  //canvas.parent('doublecode');
 
   // Set angles with PI which is global and therefore must be defined in setup.
   angle_1 = PI / 2;
