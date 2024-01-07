@@ -12,24 +12,9 @@ function toggle_Run(){
 	background(255);
 	tracer.background(255);
 	Run = ! Run;
-	if(Run === true) {
-		angle_1 = parseFloat(document.getElementById("angle_1").value);
+
 		
-		angle_2 = parseFloat(document.getElementById("angle_2").value);
 	
-		angular_velocity_1 = parseFloat(document.getElementById("angular_velocity_1").value);
-		
-		angular_velocity_2 = parseFloat(document.getElementById("angular_velocity_2").value);
-		
-		mass_1 = parseFloat(document.getElementById("mass_1").value);
-		
-		mass_2 = parseFloat(document.getElementById("mass_2").value);
-		
-		arm_length_1 = parseFloat(document.getElementById("arm_length_1").value);
-		
-		arm_length_2 = parseFloat(document.getElementById("arm_length_2").value);
-		
-	}
 }
 //Constants
 var gravity = 1; // Gravity is set to 1 because code breaks when 9.8 m/s^2 is used. 
