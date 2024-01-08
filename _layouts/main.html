@@ -6,14 +6,14 @@ layout: compress
 <html lang="{{ site.language }}" class="no-js">
     {% include head.html %}
     <body class="main-page has-push-menu">
-     
+        <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
+        <script src="Double.js"></script>
+        <div id = "doublecode" class="""></div>
         {% include svg-icons.html %}
         {% include header.html %}
             <section class="content">
                 {{ content }}
-               <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
-               <script src="Double.js"></script>
-               <div id = "doublecode" class="""></div>
+
             </section>
         {% include footer.html %}
         <script>
