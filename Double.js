@@ -23,6 +23,7 @@ function setup() {
   // This creates the space for the graphics to be displayed
   var canvas = createCanvas(700, 370);
   canvas.parent('doublecode');
+  //canvas.background('#141414');
 
   // Set angles with PI which is global and therefore must be defined in setup.
   angle_1 = PI ;
@@ -36,7 +37,7 @@ function setup() {
   tracer = createGraphics(width, height);
   
   // Set background to write
-  tracer.background(20,20,20);
+  tracer.background('#141414');
   
   // Set origin of tracer object to the origin
   tracer.translate(origin_x, origin_y);
