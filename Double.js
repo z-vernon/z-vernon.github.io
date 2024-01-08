@@ -31,7 +31,7 @@ function setup() {
   
   // Set the origin to fit the canvas
   origin_x = width / 2;
-  origin_y = height /5;
+  origin_y = height /2;
   
   //creates tracer object that is the size of the cancas
   tracer = createGraphics(width, height);
