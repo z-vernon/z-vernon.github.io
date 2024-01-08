@@ -21,7 +21,7 @@ var tracer;
 
 function setup() {
   // This creates the space for the graphics to be displayed
-  var canvas = createCanvas(700, 370);
+  var canvas = createCanvas(windowWidth, windowHeight); // 700 370
   canvas.parent('doublecode');
   //canvas.background('#141414');
 
