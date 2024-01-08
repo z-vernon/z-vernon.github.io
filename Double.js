@@ -36,7 +36,7 @@ function setup() {
   tracer = createGraphics(width, height);
   
   // Set background to write
-  tracer.background(0);
+  tracer.background(20,20,20);
   
   // Set origin of tracer object to the origin
   tracer.translate(origin_x, origin_y);
