@@ -88,7 +88,7 @@ function draw() {
   strokeWeight(10)
   line(0, 0, position_x_1, position_y_1);
   fill(255);
-  ellipse(position_x_1, position_y_1, radius, radius);
+  ellipse(position_x_1, position_y_1, 1, 1);
   
   // Visualization of Pendulum 2
   stroke(255);
