@@ -81,7 +81,7 @@ function draw() {
   // Visualization of origin
 
   fill(255);
-  ellipse(0,0, radius, radius);
+  ellipse(0,0, 1, 1);
 
   // Visualization of Pendulum 1
   stroke(255);
