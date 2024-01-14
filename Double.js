@@ -24,8 +24,8 @@ function setup() {
   var canvas = createCanvas(windowWidth, windowHeight); // 700 370
   canvas.parent('doublecode');
   //canvas.background('#141414');
-  var arm_length_1 = windowHeight/6;
-  var arm_length_2 = windowHeight/6;
+  arm_length_1 = windowHeight/6;
+  arm_length_2 = windowHeight/6;
   // Set angles with PI which is global and therefore must be defined in setup.
   angle_1 = PI ;
   angle_2 = 3.14 ;
