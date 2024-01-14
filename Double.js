@@ -5,8 +5,8 @@ var angular_velocity_1 = 0;
 var angular_velocity_2 = 0;
 var mass_1 = 10;
 var mass_2 = 10;
-var arm_length_1 = 120
-var arm_length_2 = 120
+//var arm_length_1 = 120
+//var arm_length_2 = 120
 var Run = true;
 
 //Constants
@@ -24,8 +24,8 @@ function setup() {
   var canvas = createCanvas(windowWidth, windowHeight); // 700 370
   canvas.parent('doublecode');
   //canvas.background('#141414');
-  arm_length_1 = windowHeight/6;
-  arm_length_2 = windowHeight/6;
+  arm_length_1 = height/6;
+  arm_length_2 = height/6;
   // Set angles with PI which is global and therefore must be defined in setup.
   angle_1 = PI ;
   angle_2 = 3.14 ;
