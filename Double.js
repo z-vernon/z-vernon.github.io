@@ -5,8 +5,8 @@ var angular_velocity_1 = 0;
 var angular_velocity_2 = 0;
 var mass_1 = 10;
 var mass_2 = 10;
-//var arm_length_1 = 120
-//var arm_length_2 = 120
+var arm_length_1;
+var arm_length_2;
 var Run = true;
 
 //Constants
