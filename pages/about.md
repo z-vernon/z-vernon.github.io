@@ -1,19 +1,15 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: ''
 title: About
-description: Some description.
+description: General information about background.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="/assets/img/uploads/head_shot.jpg" alt="Zach Vernon" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am currently an engineer working for Dominion Energy based in the Greater Richmond area. I studied Phyics at Randolph College and System Science and Engineering Washington University in St. Louis. I have an array of technical interests from coding to designing.
+
