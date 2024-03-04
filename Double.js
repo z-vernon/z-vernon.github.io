@@ -29,6 +29,8 @@ function setup() {
   // Set angles with PI which is global and therefore must be defined in setup.
   angle_1 = PI*Math.random() ;
   angle_2 = PI*Math.random() ;
+
+  
   
   // Set the origin to fit the canvas
   origin_x = width / 2;
