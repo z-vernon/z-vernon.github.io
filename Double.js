@@ -108,9 +108,9 @@ function draw() {
   
   
   // traces the path of the bottom oendulum
-  /*if (frameCount > 1) {
+  if (frameCount > 1) {
     tracer.line(previous_point_x_2, previous_point_y_2, position_x_2, position_y_2);
-  }*/
+  }
   
   // records the previous position information for next cycle.
   previous_point_x_2 = position_x_2;
