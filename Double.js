@@ -84,14 +84,13 @@ function draw() {
   var position_y_2 = position_y_1 + arm_length_2 * cos(angle_2);
  
   // Visualization of origin
-
-  fill(255);
-  ellipse(0,0, 1, 1);
-
   strokeWeight(5);
   noFill();
   stroke(255);
   circle(0, 0, radius_circle*2);
+
+  fill(255);
+  ellipse(0,0, 1, 1);
 
   // Visualization of Pendulum 1
   stroke(255);
