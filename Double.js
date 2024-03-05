@@ -29,8 +29,8 @@ function setup() {
   arm_length_2 = height/6;
   radius_circle = height/6;
   // Set angles with PI which is global and therefore must be defined in setup.
-  angle_1 = PI*Math.random() ;
-  angle_2 = PI*Math.random() ;
+  angle_1 = 0//PI*Math.random() ;
+  angle_2 = 0//PI*Math.random() ;
 
 
   
