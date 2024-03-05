@@ -27,7 +27,7 @@ function setup() {
   //canvas.background('#141414');
   arm_length_1 = height/6;
   arm_length_2 = height/6;
-  radius_circle = height/6 + 0.2;
+  radius_circle = height/6 + 12.5;
   // Set angles with PI which is global and therefore must be defined in setup.
   angle_1 = PI*Math.random() ;
   angle_2 = PI*Math.random() ;
