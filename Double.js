@@ -7,6 +7,7 @@ var mass_1 = 10;
 var mass_2 = 10;
 var arm_length_1;
 var arm_length_2;
+var radius_circle;
 var Run = true;
 
 //Constants
@@ -26,11 +27,12 @@ function setup() {
   //canvas.background('#141414');
   arm_length_1 = height/6;
   arm_length_2 = height/6;
+  radius_circle = height/6 + 0.2;
   // Set angles with PI which is global and therefore must be defined in setup.
   angle_1 = PI*Math.random() ;
   angle_2 = PI*Math.random() ;
 
-  
+
   
   // Set the origin to fit the canvas
   origin_x = width / 2;
@@ -85,6 +87,8 @@ function draw() {
 
   fill(255);
   ellipse(0,0, 1, 1);
+
+  circle(origin_x, origin_y, radius_circle*2);
 
   // Visualization of Pendulum 1
   stroke(255);
