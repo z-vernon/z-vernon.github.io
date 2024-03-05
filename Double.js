@@ -91,7 +91,7 @@ function draw() {
   strokeWeight(5);
   noFill();
   stroke(255);
-  circle(origin_x, origin_y, radius_circle*2);
+  circle(0, 0, radius_circle*2);
 
   // Visualization of Pendulum 1
   stroke(255);
