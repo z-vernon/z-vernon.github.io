@@ -87,7 +87,7 @@ function draw() {
   strokeWeight(5);
   noFill();
   stroke(255);
-  circle(0, 0, radius_circle*4);
+  circle(0, 0, radius_circle*4.1);
 
   fill(255);
   ellipse(0,0, 1, 1);
@@ -104,7 +104,7 @@ function draw() {
   strokeWeight(10)
   line(position_x_1, position_y_1, position_x_2, position_y_2);
   fill(255);
-  ellipse(position_x_2, position_y_2-19.25, radius, radius);
+  ellipse(position_x_2, position_y_2, radius, radius);
   
   // Computing angular velocity
   angular_velocity_1 += angular_acceleration_1;
