@@ -72,8 +72,8 @@ function draw() {
   var part_2_4 = sq(angular_velocity_2) * arm_length_2 * mass_2 * cos(angle_1 - angle_2);
   
   // Combined parts of angular acceleration
-  var angular_acceleration_1 = (part_1_1 + part_1_2 + part_1_3 *                                       part_1_4) / (arm_length_1*part_5);
-  var angular_acceleration_2 = ( part_2_1* (part_2_2 + part_2_3 +                                       part_2_4)) /(arm_length_2 * part_5);
+  var angular_acceleration_1 = (part_1_1 + part_1_2 + part_1_3 * part_1_4) / (arm_length_1*part_5);
+  var angular_acceleration_2 = ( part_2_1* (part_2_2 + part_2_3 + part_2_4)) /(arm_length_2 * part_5);
 
    // Converting to cartesian coordinates from polar for pendulum 1
   var position_x_1 = arm_length_1 * sin(angle_1);
