@@ -87,7 +87,7 @@ function draw() {
   strokeWeight(5);
   noFill();
   stroke(255);
-  circle(0, 0, radius_circle*4.2);
+  circle(0, 0, radius_circle*4.15);
 
   fill(255);
   ellipse(0,0, 1, 1);
