@@ -1,3 +1,5 @@
+const { fill } = require("lodash");
+
 //Input Variables
 var angle_1 = 0;
 var angle_2 = 0;
@@ -88,6 +90,9 @@ function draw() {
   noFill();
   stroke(255);
   circle(0, 0, radius_circle*4.1355);
+
+  fill(255)
+  circle(-width, -height, radius_circle);
 
   fill(255);
   ellipse(0,0, 1, 1);
