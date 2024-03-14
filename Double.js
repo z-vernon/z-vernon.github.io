@@ -92,7 +92,7 @@ function draw() {
   circle(0, 0, radius_circle*4.1355);
 
   fill(255)
-  circle(-width, -height, radius_circle);
+  circle(width, height, radius_circle);
 
   fill(255);
   ellipse(0,0, 1, 1);
