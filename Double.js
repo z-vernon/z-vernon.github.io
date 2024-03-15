@@ -90,6 +90,9 @@ function draw() {
   noFill();
   stroke(255);
   circle(0, 0, radius_circle*4.1355);
+  
+  fill(255);
+  ellipse(arm_length_1*5,arm_length_1*5, radius, radius);
 
   fill(255);
   ellipse(0,0, 1, 1);
