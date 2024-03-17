@@ -36,8 +36,8 @@ function setup() {
   radius_circle = windowHeight/6;
 
   // Set angles with PI which is global and therefore must be defined in setup.
-  angle_1 = PI*Math.random() ;
-  angle_2 = PI*Math.random() ;
+  angle_1 = PI*Math.random()*0.5 ;
+  angle_2 = PI*Math.random()*0.75;
 
 
   
