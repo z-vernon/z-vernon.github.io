@@ -68,7 +68,7 @@ function draw() {
   fill(255);
   textFont('Courier New');
   textSize(24);
-  text('hi', 3*windowWidth/4, 3*windowHeight/4);
+  text('hi', 0,0);
 
   //Equation of angular acceleration for theta 1
   var part_1_1 = -gravity * (2 * mass_1 + mass_2) * sin(angle_1);
