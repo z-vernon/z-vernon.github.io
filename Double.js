@@ -23,14 +23,6 @@ var origin_x, origin_y;
 var tracer;
 
 
-function windowResized() {
-	// keep a 16:9 portrait format
-	if(windowWidth<windowHeight){
-		resizeCanvas(windowWidth,windowHeight);
-	} else {
-		resizeCanvas( (windowHeight/1.3)*0.5625, windowHeight/1.38);
-	}
-}
 
 function setup() {
   // This creates the space for the graphics to be displayed
