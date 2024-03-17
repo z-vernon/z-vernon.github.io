@@ -66,9 +66,12 @@ function draw() {
   translate(origin_x,origin_y);
  
   fill(255);
-  textFont('Courier New');
-  textSize(24);
-  text('hi', 0,0);
+  stroke(255);
+  strokeWeight(1);
+  textFont('sans serif');
+  textAlign(LEFT);
+  textSize(16);
+  text(' "What we know is not much.\n What we dont know is enormous."\n -Pierre Simon De Laplace ', -450,-200);
 
   //Equation of angular acceleration for theta 1
   var part_1_1 = -gravity * (2 * mass_1 + mass_2) * sin(angle_1);
