@@ -40,6 +40,12 @@ function setup() {
   origin_x = width / 2;
   origin_y = height /2;
   
+  background(200);
+  fill(255);
+  textFont('Courier New');
+  textSize(24);
+  text('hi', 35, 55);
+
   //creates tracer object that is the size of the cancas
   tracer = createGraphics(width, height);
   
