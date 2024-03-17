@@ -27,9 +27,14 @@ function setup() {
   var canvas = createCanvas(windowWidth, windowHeight); // 700 370
   canvas.parent('doublecode');
   //canvas.background('#141414');
-  arm_length_1 = height/6;
-  arm_length_2 = height/6;
-  radius_circle = height/6;
+  //arm_length_1 = height/6;
+  //arm_length_2 = height/6;
+  //radius_circle = height/6;
+
+  arm_length_1 = windowHeight/6;
+  arm_length_2 = windowHeight/6;
+  radius_circle = windowHeight/6;
+
   // Set angles with PI which is global and therefore must be defined in setup.
   angle_1 = PI*Math.random() ;
   angle_2 = PI*Math.random() ;
@@ -37,14 +42,14 @@ function setup() {
 
   
   // Set the origin to fit the canvas
-  origin_x = width / 2;
-  origin_y = height /2;
+  origin_x = windowWidth / 2;
+  origin_y = windowHeight /2;
   
   background(200);
   fill(255);
   textFont('Courier New');
   textSize(24);
-  text('hi', 35, 55);
+  text('hi', windowWidth, windowHeight);
 
   //creates tracer object that is the size of the cancas
   tracer = createGraphics(width, height);
