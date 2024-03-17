@@ -32,7 +32,7 @@ function setup() {
 	} else {
 		var canvas=createCanvas( (windowHeight/1.3)*0.5625, windowHeight/1.38);
 	}
-  canvas.parent('doublecode');
+  //canvas.parent('doublecode');
   //canvas.background('#141414');
   //arm_length_1 = height/6;
   //arm_length_2 = height/6;
