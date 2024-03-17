@@ -45,11 +45,11 @@ function setup() {
   origin_x = windowWidth / 2;
   origin_y = windowHeight /2;
   
-  background(200);
+  //background(200);
   fill(255);
   textFont('Courier New');
   textSize(24);
-  text('hi', windowWidth, windowHeight);
+  text('hi', windowWidth/4, windowHeight/4);
 
   //creates tracer object that is the size of the cancas
   tracer = createGraphics(width, height);
