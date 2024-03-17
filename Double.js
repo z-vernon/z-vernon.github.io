@@ -68,9 +68,9 @@ function draw() {
   fill(255);
   stroke(255);
   strokeWeight(1);
-  textFont('sans serif');
+  textFont('Titillium Web');
   textAlign(LEFT);
-  textSize(16);
+  textSize(24);
   text(' "What we know is not much.\n What we dont know is enormous."\n -Pierre Simon De Laplace ', -450,-200);
 
   //Equation of angular acceleration for theta 1
