@@ -45,11 +45,6 @@ function setup() {
   origin_x = windowWidth / 2;
   origin_y = windowHeight /2;
   
-  //background(200);
-  fill(255);
-  textFont('Courier New');
-  textSize(24);
-  text('hi', windowWidth/4, windowHeight/4);
 
   //creates tracer object that is the size of the cancas
   tracer = createGraphics(width, height);
@@ -70,6 +65,10 @@ function draw() {
     // This changes the default origin to up and down.
   translate(origin_x,origin_y);
  
+  fill(255);
+  textFont('Courier New');
+  textSize(24);
+  text('hi', windowWidth/4, windowHeight/4);
 
   //Equation of angular acceleration for theta 1
   var part_1_1 = -gravity * (2 * mass_1 + mass_2) * sin(angle_1);
