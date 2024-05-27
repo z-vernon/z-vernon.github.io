@@ -7,11 +7,13 @@ description: Some description.
 permalink: /skills/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="/assets/img/Skills.png" alt="WZV" width="200">
 
-# Python
-# C++/C
-# Solidworks
-# Ladder Logic
-# Structured Text
-# Netorking
+# Python:
+# C++/C:
+# Solidworks:
+# Ladder Logic:
+# Structured Text:
+# Networking:
+# HMI:
+
