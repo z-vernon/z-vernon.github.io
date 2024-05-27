@@ -7,6 +7,7 @@ description: Some description.
 permalink: /skills/
 ---
 
+# Skills
 <img class="img" src="/assets/img/Skills.svg" alt="WZV" width="500" height="200">
 
 # Python:
