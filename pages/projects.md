@@ -7,7 +7,7 @@ description: Some description.
 permalink: /projects/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img" src="/assets/img/PID.svg" alt="WZV" width="500" height="200">
 
 # Projects
 
