@@ -7,9 +7,11 @@ description: Some description.
 permalink: /skills/
 ---
 
-# Skills
+
 <img class="img" src="/assets/img/Skills.svg" alt="WZV" width="500" height="200">
 
+# Skills
+This page contains a list of skill and proficiency level.
 # Python:
 # C++/C:
 # Solidworks:

@@ -9,7 +9,7 @@ permalink: /projects/
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
 
-# About
+# Projects
 
 This page contains project that demostrate my technical skills. Please reach out if you are curious about a project.
 
