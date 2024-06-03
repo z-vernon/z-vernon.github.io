@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: ''
 title: Skills
 description: Some description.
 permalink: /skills/
@@ -15,8 +15,18 @@ This page contains a list of skill and proficiency level.
 # Python:
 # C++/C:
 # Solidworks:
-# Ladder Logic:
 # Structured Text:
-# Networking:
 # HMI:
 
+<ul>
+  <li>Python</li>
+  <li>Javascript</li>
+  <li>Matlab & Simulink</li>
+  <li>C++/C</li>
+  <li>Structured Text</li>
+  <li>Ladder Logic</li>
+  <li>HMI: SEL,EXOR </li>
+  <li>PLC: SEL RTAC,Kollmorgen,Omron,Allen Bradley</li>
+  <li>CAD: Solidworks,Fusion 360</li>
+  <li>Tools: oscilloscopes, multimeters, and signal generators</li>
+</ul>  

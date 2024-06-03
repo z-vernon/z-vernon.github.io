@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: ''
 title: Projects
 description: Some description.
 permalink: /projects/
@@ -20,3 +20,7 @@ This page contains project that demostrate my technical skills. Please reach out
 # Inverted Pendulunm
 <iframe width="560" height="315" src="https://www.youtube.com/embed/itb_ErOLqjk?si=w-6nuJb7stO2JNoW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# Multi-Sample Lumenometor 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JpbYVte52V0?si=y-EsY3y-EpaxFW53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
