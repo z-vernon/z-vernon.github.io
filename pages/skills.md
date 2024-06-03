@@ -12,12 +12,6 @@ permalink: /skills/
 
 # Skills
 This page contains a list of skill and proficiency level.
-# Python:
-# C++/C:
-# Solidworks:
-# Structured Text:
-# HMI:
-
 <ul>
   <li>Python</li>
   <li>Javascript</li>
