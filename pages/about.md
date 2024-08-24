@@ -11,5 +11,5 @@ permalink: /about/
 
 # About
 
-I am currently an engineer working for Dominion Energy based in the Greater Richmond area with my fiancée and dog Buster. I studied Phyics at Randolph College and System Science and Engineering Washington University in St. Louis. I have an array of technical interests from coding to electrical and mechanical design.I have keen interest in automation and control system with experience in programing PID and control algorthims, programing data concentrator for SCADA systems, and programing HMI displays. I have keen Please reach out if you interesting in talking.
+I am currently an engineer working for Dominion Energy based in the Greater Richmond area with my fiancée and dog Buster. I studied Phyics at Randolph College and System Science and Engineering Washington University in St. Louis. I have an array of technical interests from coding to electrical and mechanical design.I have keen interest in automation and control system with experience in programing PID and control algorthims, programing data concentrator for SCADA systems, and programing HMI displays. Please reach out if you interesting in talking.
 
