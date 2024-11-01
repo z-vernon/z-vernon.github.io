@@ -1,6 +1,27 @@
 ---
 layout: compress
 ---
+#canvas-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden; /* To prevent scrolling on small screens */
+    margin: 0 auto; /* Horizontal centering */
+    background-color: #141414; /* Optional background color */
+  }
+  
+  /* Optional mobile adjustments */
+  @media (max-width: 768px) {
+    #canvas-container {
+      padding: 0; /* Remove padding on mobile */
+    }
+    canvas {
+      max-width: 100%; /* Ensure canvas scales within container */
+      max-height: 100%;
+    }
+  }
 
 <!DOCTYPE html>
 <html lang="{{ site.language }}" class="no-js">
@@ -18,11 +39,11 @@ layout: compress
 
         
         <!--    <section class="content">
-                {{ content }}
+                {{ content }}-->
 
             </section>
         {% include footer.html %}
-        <script>
+       <!-- <script>
             if (window.netlifyIdentity) {
                 window.netlifyIdentity.on("init", function(user) {
                     if (!user) {
