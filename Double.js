@@ -33,13 +33,13 @@
         imageMode(CORNER);
         translate(origin_x, origin_y);
 
-        fill(255);
-        stroke(255);
-        strokeWeight(1);
-        textFont('Titillium Web');
-        textAlign(LEFT);
-        textSize(24);
-        text(' "What we know is not much.\n What we dont know is enormous."\n -Pierre Simon De Laplace ', 250, 200);
+        //fill(255);
+        //stroke(255);
+        //strokeWeight(1);
+        //textFont('Titillium Web');
+        //textAlign(LEFT);
+        //textSize(24);
+        //text(' "What we know is not much.\n What we dont know is enormous."\n -Pierre Simon De Laplace ', 250, 200);
 
         // Angular acceleration equations and calculations remain the same
 
