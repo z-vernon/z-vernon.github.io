@@ -6,36 +6,13 @@ layout: compress
 <html lang="{{ site.language }}" class="no-js">
     {% include head.html %}
 
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Responsive Canvas</title>
-        <style>
-          /* Full-height centered canvas container */
-          #canvas-container {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh; /* Full viewport height to vertically center */
-          }
-      
-          /* Basic reset and background color for the page */
-          body {
-            margin: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background-color: #141414; /* Optional background color */
-          }
-        </style>
-      </head>
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
         <div id="canvas-container"></div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
         <script src="Double.js"></script>
-        
+        <div id = "doublecode" class="""></div>
 
        
 
