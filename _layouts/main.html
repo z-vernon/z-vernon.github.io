@@ -1,32 +1,37 @@
 ---
 layout: compress
 ---
-#canvas-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden; /* To prevent scrolling on small screens */
-    margin: 0 auto; /* Horizontal centering */
-    background-color: #141414; /* Optional background color */
-  }
-  
-  /* Optional mobile adjustments */
-  @media (max-width: 768px) {
-    #canvas-container {
-      padding: 0; /* Remove padding on mobile */
-    }
-    canvas {
-      max-width: 100%; /* Ensure canvas scales within container */
-      max-height: 100%;
-    }
-  }
+
 
 <!DOCTYPE html>
 <html lang="{{ site.language }}" class="no-js">
     {% include head.html %}
-
+    <head>
+        <style>
+          /* Centering styles for the canvas container */
+          #canvas-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100vw;
+            height: 100vh;
+            overflow: hidden;
+            margin: 0 auto;
+            background-color: #141414;
+          }
+    
+          /* Optional mobile adjustments */
+          @media (max-width: 768px) {
+            #canvas-container {
+              padding: 0;
+            }
+            canvas {
+              max-width: 100%;
+              max-height: 100%;
+            }
+          }
+        </style>
+      </head>
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
