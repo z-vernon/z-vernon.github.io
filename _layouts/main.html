@@ -1,70 +1,51 @@
----
-layout: compress
----
-
-
 <!DOCTYPE html>
-<html lang="{{ site.language }}" class="no-js">
-    {% include head.html %}
-    <head>
-        <style>
-          /* Centering styles for the canvas container */
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
 
-          html, body {
-        margin: 0;
-        padding: 0;
-        width: 100vw;
-        height: 100vh;
-        overflow: hidden;
-      }
-          #canvas-container {
+        #canvas-container {
             display: flex;
             align-items: center;
             justify-content: center;
-            width: 100vw;
-            height: 100vh;
-            overflow: hidden;
-            
+            width: 100%;
+            height: 100%;
             background-color: #141414;
-          }
-    
-          /* Optional mobile adjustments */
-          @media (max-width: 768px) {
-        
+            position: relative; /* Add this */
+        }
+
+        /* Better mobile adjustments */
+        @media (max-width: 768px) {
+            #canvas-container {
+                padding: 1rem; /* Add some padding on mobile */
+            }
+
             canvas {
-              max-width: 50%;
-              max-height: 50%;
+                width: auto !important; /* Override p5.js inline styles */
+                height: auto !important;
+                max-width: 90vmin !important; /* Use vmin for better scaling */
+                max-height: 90vmin !important;
             }
-          }
-        </style>
-      </head>
-    <body class="main-page has-push-menu">
-        {% include svg-icons.html %}
-        {% include header.html %}
-        <div id="canvas-container"></div>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
-        <script src="Double.js"></script>
-        <!--<div id = "doublecode" class=""></div>-->
+        }
+    </style>
+</head>
+<body class="main-page has-push-menu">
+    {% include svg-icons.html %}
+    {% include header.html %}
 
-       
+    <div id="canvas-container"></div>
 
-        
-        <!--    <section class="content">
-                {{ content }}-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <script src="Double.js"></script>
 
-            </section>
-        {% include footer.html %}
-       <!-- <script>
-            if (window.netlifyIdentity) {
-                window.netlifyIdentity.on("init", function(user) {
-                    if (!user) {
-                        window.netlifyIdentity.on("login", function() {
-                            document.location.href = "/admin/";
-                        });
-                    }
-                });
-            }
-        </script>-->
-    </body>
+    {% include footer.html %}
+</body>
 </html>
-
