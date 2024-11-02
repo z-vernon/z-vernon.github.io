@@ -92,7 +92,8 @@
       if (windowWidth > windowHeight) {
         canvas = createCanvas(windowWidth, windowHeight);
       } else {
-        canvas = createCanvas((windowHeight / 1.3) * 0.5625, windowHeight / 1.38);
+        //canvas = createCanvas((windowHeight / 1.3) * 0.5625, windowHeight / 1.38);
+        canvas = createCanvas(windowHeight, windowHeight);
       }
       canvas.parent('canvas-container'); // Attach the canvas to the centered container
     }
