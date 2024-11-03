@@ -1,5 +1,3 @@
-const { reload } = require("browser-sync");
-
 // Input Variables
 var angle_1 = 0;
 var angle_2 = 0;
@@ -112,7 +110,6 @@ function windowResized() {
     let prevAngle2 = angle_2;
     let prevVel1 = angular_velocity_1;
     let prevVel2 = angular_velocity_2;
-    
 
     // Resize canvas
     let size = min(windowWidth, windowHeight) * 0.9;
