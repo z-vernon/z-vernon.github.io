@@ -14,7 +14,7 @@ var Run = true;
 
 // Constants
 var gravity = 0.25;
-var radius = 25;
+var radius = 15;
 var previous_point_x_2 = -1;
 var previous_point_y_2 = -1;
 var origin_x, origin_y;
