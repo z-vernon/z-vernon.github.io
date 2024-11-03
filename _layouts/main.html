@@ -23,20 +23,18 @@ layout: compress
                 height: 100%;
                 overflow: hidden;
                 background-color: #141414;
-                position: relative;
+                position: relative; /* Added for better positioning */
             }
 
-            /* Improved mobile adjustments */
             @media (max-width: 768px) {
                 #canvas-container {
-                    padding: 1rem;
+                    padding: 0; /* Remove padding to maximize space */
                 }
-
+                
                 canvas {
-                    width: auto !important;
-                    height: auto !important;
-                    max-width: 90vmin !important;
-                    max-height: 90vmin !important;
+                    /* Use viewport units for consistent sizing */
+                    width: 90vmin !important;
+                    height: 90vmin !important;
                 }
             }
         </style>
@@ -44,12 +42,9 @@ layout: compress
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
-
         <div id="canvas-container"></div>
-
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
         <script src="Double.js"></script>
-
         {% include footer.html %}
     </body>
 </html>
