@@ -145,12 +145,3 @@ function windowResized() {
     reload(); // Reset animation on resize
 }
 
-// Optional: Add mouse or touch interaction to reload
-function mousePressed() {
-    reload();
-}
-
-function touchStarted() {
-    reload();
-    return false; // Prevents default behavior
-}
