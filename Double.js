@@ -108,9 +108,9 @@ function createResponsiveCanvas() {
 
 function initializeValues() {
     let minDim = min(width, height);
-    arm_length_1 = minDim / 4;
-    arm_length_2 = minDim / 4;
-    radius_circle = minDim / 4;
+    arm_length_1 = minDim / 6;
+    arm_length_2 = minDim / 6;
+    radius_circle = minDim / 6;
 
     angle_1 = PI * random(0.5);
     angle_2 = PI * random(0.75);
