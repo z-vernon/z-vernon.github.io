@@ -14,7 +14,7 @@ var Run = true;
 
 // Constants
 var gravity = 0.25;
-var radius = 15;
+var radius = 25;
 var previous_point_x_2 = -1;
 var previous_point_y_2 = -1;
 var origin_x, origin_y;
@@ -70,7 +70,7 @@ function draw() {
         strokeWeight(3 * strokeScale);
         noFill();
         stroke(255);
-        circle(0, 0, radius_circle * 6);
+        circle(0, 0, radius_circle * 2/6);
 
         // Draw pendulum arms
         stroke(255);
