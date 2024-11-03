@@ -112,7 +112,7 @@ function windowResized() {
     let prevAngle2 = angle_2;
     let prevVel1 = angular_velocity_1;
     let prevVel2 = angular_velocity_2;
-    reload();
+    
 
     // Resize canvas
     let size = min(windowWidth, windowHeight) * 0.9;
