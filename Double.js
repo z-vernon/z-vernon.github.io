@@ -70,7 +70,7 @@ function draw() {
         strokeWeight(3 * strokeScale);
         noFill();
         stroke(255);
-        circle(0, 0, radius_circle * 4);
+        circle(0, 0, radius_circle * 6);
 
         // Draw pendulum arms
         stroke(255);
