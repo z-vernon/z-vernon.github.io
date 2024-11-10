@@ -37,7 +37,7 @@ function draw() {
         strokeWeight(1);
         textFont('Titillium Web');
         textAlign(LEFT);
-        textSize(min(width, height) / 10);
+        textSize(24);
         text(' "What we know is not much.\n What we dont know is enormous."\n -Pierre Simon De Laplace ', -20,minDim/2);
 
         // Calculate all the physics
