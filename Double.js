@@ -70,7 +70,7 @@ function draw() {
         strokeWeight(3 * strokeScale);
         noFill();
         stroke(255);
-        circle(0, 0, radius_circle*2*6);
+        circle(0, 0, radius_circle*2);
 
         // Draw pendulum arms
         stroke(255);
@@ -110,7 +110,7 @@ function initializeValues() {
     let minDim = min(width, height);
     arm_length_1 = minDim / 6;
     arm_length_2 = minDim / 6;
-    radius_circle = minDim / 6;
+    radius_circle = minDim / 3;
 
     angle_1 = PI * random(0.5);
     angle_2 = PI * random(0.75);
