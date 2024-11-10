@@ -37,8 +37,8 @@ function draw() {
         strokeWeight(1);
         textFont('Titillium Web');
         textAlign(LEFT);
-        textSize(min(width, height) / 100);
-        text(' "What we know is not much.\n What we dont know is enormous."\n -Pierre Simon De Laplace ', 0,250);
+        textSize(min(width, height) / 10);
+        text(' "What we know is not much.\n What we dont know is enormous."\n -Pierre Simon De Laplace ', -20,225);
 
         // Calculate all the physics
         var numerator1 = -gravity * (2 * mass_1 + mass_2) * sin(angle_1);
