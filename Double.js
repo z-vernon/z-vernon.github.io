@@ -80,8 +80,8 @@ function draw() {
 
         // Draw end circle
         fill(255);
-        ellipse(position_x_2, position_y_2 - (12 * strokeScale), radius * strokeScale, radius * strokeScale);
-
+        ellipse(position_x_2, position_y_2, radius * strokeScale, radius * strokeScale);
+        //ellipse(position_x_2, position_y_2 - (12 * strokeScale), radius * strokeScale, radius * strokeScale);
         // Update angular velocity and angle
         angular_velocity_1 += angular_acceleration_1;
         angular_velocity_2 += angular_acceleration_2;
