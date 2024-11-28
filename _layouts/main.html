@@ -43,8 +43,11 @@ layout: compress
         {% include header.html %}
      
         <div id="canvas-container" style="position: relative;">
-            <!-- Canvas or other content here -->
-            <p style="color: #ffffff; font-family: 'Titillium Web'; font-size: 18pt; text-align: center; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); margin: 10;">
+            <!-- Animation or canvas is rendered here -->
+            <div id="animation-area" style="position: relative;">
+                <!-- The animation or p5.js canvas will appear here -->
+            </div>
+            <p style="color: #ffffff; font-family: 'Titillium Web'; font-size: 18pt; text-align: center; margin: 0; position: relative; top: 0;">
                 "What we know is not much. What we don't know is enormous." <br>
                 - Pierre-Simon De Laplace
             </p>

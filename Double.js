@@ -103,7 +103,7 @@ function draw() {
 function createResponsiveCanvas() {
     let size = min(windowWidth, windowHeight) * 0.9;
     let canvas = createCanvas(size, size);
-    canvas.parent('canvas-container');
+    canvas.parent('animation-area');
 }
 
 function initializeValues() {
