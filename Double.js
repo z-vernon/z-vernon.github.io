@@ -32,13 +32,13 @@ function draw() {
         imageMode(CORNER);
         translate(origin_x, origin_y);
 
-        fill(255);
-        stroke(255);
-        strokeWeight(1);
-        textFont('Titillium Web');
-        textAlign(LEFT);
-        textSize(12);
-        text(' "What we know is not much. What we dont know is enormous."\n -Pierre Simon De Laplace ', -20,min(width, height)*19/32);
+        //fill(255);
+        //stroke(255);
+        //strokeWeight(1);
+       // textFont('Titillium Web');
+        //textAlign(LEFT);
+        //textSize(12);
+        //text(' "What we know is not much. What we dont know is enormous."\n -Pierre Simon De Laplace ', -20,min(width, height)*19/32);
 
         // Calculate all the physics
         var numerator1 = -gravity * (2 * mass_1 + mass_2) * sin(angle_1);
