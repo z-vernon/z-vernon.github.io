@@ -42,17 +42,13 @@ layout: compress
         {% include svg-icons.html %}
         {% include header.html %}
      
-        <div id="canvas-container" style="position: relative;">
-            <!-- Animation or canvas is rendered here -->
-            <div id="animation-area" style="position: relative;">
-                <!-- The animation or p5.js canvas will appear here -->
-            </div>
-            <p style="color: #ffffff; font-family: 'Titillium Web'; font-size: 18pt; text-align: left; margin: 0; position: relative; top: 0;">
-                "What we know is not much. What we don't know is enormous." <br>
-                - Pierre-Simon De Laplace
-            </p>
+        <div id="canvas-container" style="position: relative; padding: 10px; box-sizing: border-box; max-width: 100%; margin: 0 auto;">
+            <div id="animation-area" style="position: relative;"></div>
         </div>
-        
+        <p style="color: #ffffff; font-family: 'Titillium Web'; font-size: 18pt; text-align: center; margin: 0;">
+            "What we know is not much. What we don't know is enormous." <br>
+            - Pierre-Simon De Laplace
+        </p>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
         <script src="Double.js"></script>
         {% include footer.html %}
