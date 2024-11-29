@@ -142,6 +142,6 @@ function windowResized() {
     let size = min(windowWidth, windowHeight) * 0.5;
     resizeCanvas(size, size);
     initializeValues();
-    reload(); // Reset animation on resize
+    //reload(); // Reset animation on resize
 }
 
