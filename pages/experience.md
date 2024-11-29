@@ -7,6 +7,6 @@ description: Some description.
 permalink: /experience/
 ---
 
-<img class="img" src="/assets/img/Skills.svg" alt="WZV" width="500" height="200">
+<img class="img" src="/assets/img/SCADA.PNG" alt="WZV" width="500" height="200">
 # Experience
 
