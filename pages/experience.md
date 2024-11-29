@@ -7,7 +7,6 @@ description: Some description.
 permalink: /experience/
 ---
 
-<img class="img-square" src="/assets/img/uploads/SCADA.png" alt="Thomas A. Anderson" width="1000">
-
+<img class="img" src="/assets/img/Skills.svg" alt="WZV" width="500" height="200">
 # Experience
 
