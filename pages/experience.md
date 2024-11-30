@@ -2,7 +2,7 @@
 layout: page
 menu: false
 date: ''
-title: experience
+title: Experience
 description: Some description.
 permalink: /experience/
 ---
