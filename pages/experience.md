@@ -15,7 +15,6 @@ permalink: /experience
 GI Data Communication Engineer I    
 July 2023 – Present
 DominionEnergy Richmond,VA                                                                                                       
-<li>Experience with IEC61850/IEEE6180 </li>
 <li>Experience with Solar Integration working on transmission and distribution level solar sites.</li>
 <li>Understanding of system protection philosophies and applications</li>
 <li>Developed HMI for transmission level sites and created templates to assist in standardization</li>
