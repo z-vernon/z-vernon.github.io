@@ -9,17 +9,21 @@ permalink: /experience
 
 <img class="img" src="/assets/img/SCADA.PNG" alt="WZV" width="593" height="300">
 # Experience
+ 
 
-GI Data Communication Engineer I                                                                                       July 2023 – Present
-Dominion Energy                                                                                                                                       Richmond, VA
-Experience with IEC61850 / IEEE6180 
-Experience with Solar Integration working on transmission and distribution level solar sites.
-Understanding of system protection philosophies and applications
-Developed HMI for transmission level sites and created templates to assist in standardization
-Assisted in software-defined networking (SDN) deployment by testing configurations in lab
-Programmed using SSNET and created device configurations for ESNET and Power Systems Center
-Worked with SEL Devices (SEL-3530, SEL-3332, SEL-3354, SEL-3355, SEL-3555)
-Configured Firewall rules to allow TCP/UDP and other protocol traffic to transverse from the substations LAN to the WAN
+<ul>
+GI Data Communication Engineer I    
+July 2023 – Present
+DominionEnergy Richmond,VA                                                                                                       
+<li>Experience with IEC61850/IEEE6180 </li>
+<li>Experience with Solar Integration working on transmission and distribution level solar sites.</li>
+<li>Understanding of system protection philosophies and applications</li>
+<li>Developed HMI for transmission level sites and created templates to assist in standardization</li>
+<li>Assisted in software-defined networking (SDN) deployment by testing configurations in lab</li>
+<li>Programmed using SSNET and created device configurations for ESNET and Power Systems Center</li>
+<li>Worked with SEL Devices (SEL-3530, SEL-3332, SEL-3354, SEL-3355, SEL-3555)</li>
+<li>Configured Firewall rules to allow TCP/UDP and other protocol traffic to transverse from the substations LAN to the WAN</li>
+</ul>
 R&D Design Engineer 							                          April 2022 – Present
 Self-Employed(Part Time)                                                                                                                            Richmond, VA
 Visited site to determine client needs and project scope
