@@ -12,10 +12,9 @@ permalink: /experience
  
 
 
-GI Data Communication Engineer I    
-July 2023–Present
-Dominion Energy 
-Richmond,VA                                                                                                       
+<b>GI Data Communication Engineer I </b> 
+<b>July 2023 – Present</b> 
+<b>Dominion Energy, Richmond,VA </b>                                                                                                        
 <ul>
 <li>Experience with Solar Integration working on transmission and distribution level solar sites.</li>
 <li>Understanding of system protection philosophies and applications</li>
@@ -25,8 +24,9 @@ Richmond,VA
 <li>Worked with SEL Devices (SEL-3530, SEL-3332, SEL-3354, SEL-3355, SEL-3555)</li>
 <li>Configured Firewall rules to allow TCP/UDP and other protocol traffic to transverse from the substations LAN to the WAN</li>
 </ul>
-R&D Design Engineer 							                          April 2022 – Present
-Self-Employed(Part Time)   
+<b>R&D Design Engineer</b>   							                          
+<b>April 2022 – Present</b>  
+<b>Self-Employed(Part Time)</b>     
 <ul>                                                                                                                         Richmond, VA
 <li>Visited site to determine client needs and project scope</li>
 <li>Used Fusion 360 to develop x-y gantry with drag chain wire management system and a light tight enclosure for a prototype luminometer</li>
@@ -37,23 +37,25 @@ Self-Employed(Part Time)
 <li>Performed Research for component selection, on manufacturing process, sensor design, and function luminometer</li>
 <li>Troubleshooted and upgraded 3D printers and more</li>
 </ul>
-Sales Application Engineer						                                June 2021 – March 2022
-Kollmorgen										                             Radford, VA
+<b>Sales Application Engineer</b>    						                                
+<b>June 2021 – March 2022</b>    
+<b>Kollmorgen Radford, VA</b>    
 <ul>  
 <li>Assisted distributor accounts valued at multi-million dollars with application sizing and selection of AC Servo,  DC, direct drive motors feedback devices (encoders), servo drives, industrial computers and more</li>
 <li>Helped manage customer relationships by answering technical questions via the phone or over email</li>
 <li>Analyzed and explored methods to optimize standard work processes to improve the customer experience by identifying where there was friction in the process using a root cause analysis</li>
 <li>Enhanced customer product knowledge by teaching them how to use Motioneering and Performance Curve Generators for initial motor sizing</li>
 </ul>
-
-Assistant Instructor for Introduction to Engineering Design 		                  January 2020 – May 2021
-Washington University in St. Louis									               St. Louis, MO
+<b>Assistant Instructor for Introduction to Engineering Design</b>     		                  
+<b>January 2020 – May 2021</b>    
+<b>Washington University in St. Louis</b>    									             
 <ul>
 <li>Assisted in the running of office hours and support lab hours by answering students’ questions and guiding them through difficult tasks</li>
 <li>Repaired and tested PiCars</li>
 </ul>
-Grader for Operations Research 						              August 2020 – January 2021
-Washington University in St. Louis									               St. Louis, MO
+<b>Grader for Operations Research</b> 						              
+<b>August 2020 – January 2021</b>
+<b>Washington University in St. Louis</b>									             
 <ul>
 <li>Reviewed solution sets</li> 
 <li>Assisted in grading weekly assignments for a class of over 50 students</li> 
