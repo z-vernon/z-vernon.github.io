@@ -70,6 +70,7 @@ Led the organization of a science outreach program that drew over 3000+ local  r
 Periodically, meet with local makerspace to coordinate needs for the maker fair that took place on the last day of the event
 Scheduled and delivered training sessions to 150+ volunteers on child safety, what systems were in place, specific softwares to use and who to talk to if unexpected issues arose
 Performed on-site management and admin to ensure that the 150+ volunteers were following their training, answering questions that volunteers, parents, or local authorities had about the events of the day,managed volunteer attendance and scheduling, and the logistic of event setup and tear down
+
 Build Master of Society of Physics Students                                                            Academic Year of 2015-2016                                                                                              
 Randolph College                                                                                                                                                                 Lynchburg, VA
 Established Workshop                                                                                                                                                          
@@ -84,22 +85,50 @@ Omnidirectional Robot
 Wrote a RISE Grant  grant to fund purchase of parts and equipment
 Led designing and construction of the frame and electrical component layout and, then lead assembly and assisted in PID controller tuning
 Research Experience
+
 Student Assistant and Researcher				         Summer Research Program (2019,2016,2015)
 Randolph College 								                                     Lynchburg, VA
 Assisted the Physic Department with running their online physics course by handling the logistics of providing the students with lab kits. Additionally inventoried Physics department labs, organized ,and repaired equipment
 Worked on developing a Gust Microcosm for the Environmental Science department by using NI Labview to control a DC motor and pump. Develop an interface to communicate with a turbidity sensor over serial port
 Performed data mining using SAS on data from the National Automotive Sampling System (NASS) to examine the safety of rear seated passengers in car crash
+
 # Education
-
-
-Washington University in St.Louis					                     	                               May, 2021 
-BS, System Science and Engineering 				   			                           St. Louis, MO
+					                     	                               
+<b>BS, System Science and Engineering</b>
+Washington University in St.Louis
+May, 2021
+<b>Awards and Honors</b> 				   			                           
 The David H. Levy Award for Distinguished Service (2021), Outstanding Junior Award (2020), GPA 3.8/4.0
 Dean’s List 2021, 2020
-Randolph College					                     	                                                       May, 2019
-BS, Physics with Minors in Mathematics and History				   			             Lynchburg, VA
+					                     	                                                       
+<b>BS, Physics with Minors in Mathematics and History</b>				   			            
+Randolph College in Lynchburg, VA
+May, 2019
+<b>Awards and Honors</b> 
 Physics & Engineering Senior Major Award (2019), Outstanding Engineer Award (2016), GPA 3.6/4.0
 Dean’s List 2019, 2018
 SUPER Program (2019), Sigma Xi (Research, 2019), Phi Alpha Theta (History, 2017), Sigma Pi Sigma (Physics, 2016)
-Coursework & Training: Signals & System, MATLAB & LabView, Mathematical Methods, Data Structures and Algorithms, Controls Systems, Systems Lab , Digital Signal Processing, Optimization, Machine Learning, Robotics Lab, Robotic Dynamics, Sensors & Actuators, Statics, Dynamics, Thermodynamics, Computer Aided Design, Advanced Physics Lab, one year of Physics and Chemistry plus labs, electronics lab,  OSHA 10, Eagle Scout
 
+<b>Coursework & Training:</b> 
+<ul>
+<li>Signals & System</li> 
+<li>MATLAB & LabView</li> 
+<li>Mathematical Methods</li> 
+<li>Data Structures and Algorithms</li> 
+<li>Controls Systems, Systems Lab</li> 
+<li>Digital Signal Processing</li> 
+<li>Optimization</li> 
+<li>Machine Learning</li> 
+<li>Robotics Lab</li> 
+<li>Robotic Dynamics</li> 
+<li>Sensors & Actuators</li> 
+<li>Statics</li> 
+<li>Dynamics</li> 
+<li>Thermodynamics</li> 
+<li>Computer Aided Design</li>
+<li>Advanced Physics Lab</li> 
+<li>one year of Physics and Chemistry plus labs</li> 
+<li>Electronics Lab</li>  
+<li>OSHA 10</li> 
+<li>Eagle Scout</li>
+</ul>
