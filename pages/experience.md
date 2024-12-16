@@ -11,10 +11,12 @@ permalink: /experience
 # Experience
  
 
-<ul>
+
 GI Data Communication Engineer I    
-July 2023 – Present
-DominionEnergy Richmond,VA                                                                                                       
+July 2023–Present
+Dominion Energy 
+Richmond,VA                                                                                                       
+<ul>
 <li>Experience with Solar Integration working on transmission and distribution level solar sites.</li>
 <li>Understanding of system protection philosophies and applications</li>
 <li>Developed HMI for transmission level sites and created templates to assist in standardization</li>
@@ -24,44 +26,40 @@ DominionEnergy Richmond,VA
 <li>Configured Firewall rules to allow TCP/UDP and other protocol traffic to transverse from the substations LAN to the WAN</li>
 </ul>
 R&D Design Engineer 							                          April 2022 – Present
-Self-Employed(Part Time)                                                                                                                            Richmond, VA
-Visited site to determine client needs and project scope
-Used Fusion 360 to develop x-y gantry with drag chain wire management system and a light tight enclosure for a prototype luminometer
-Built prototype parts and refined physical design by manufacturing parts using 3D printers
-Selected electrical components to control x-y gantry and wrote low level script for gantry movement path
-Advised on SiPM sensor design and testing and designed test bed enclosure
-Developed BOM and documentation
-Performed Research for component selection, on manufacturing process, sensor design, and function luminometer
-Troubleshooted and upgraded 3D printers and more
+Self-Employed(Part Time)   
+<ul>                                                                                                                         Richmond, VA
+<li>Visited site to determine client needs and project scope</li>
+<li>Used Fusion 360 to develop x-y gantry with drag chain wire management system and a light tight enclosure for a prototype luminometer</li>
+<li>Built prototype parts and refined physical design by manufacturing parts using 3D printers</li>
+<li>Selected electrical components to control x-y gantry and wrote low level script for gantry movement path</li>
+<li>Advised on SiPM sensor design and testing and designed test bed enclosure</li>
+<li>Developed BOM and documentation</li>
+<li>Performed Research for component selection, on manufacturing process, sensor design, and function luminometer</li>
+<li>Troubleshooted and upgraded 3D printers and more</li>
+</ul>
 Sales Application Engineer						                                June 2021 – March 2022
 Kollmorgen										                             Radford, VA
-Assisted distributor accounts valued at multi-million dollars with application sizing and selection of AC Servo,  DC, direct drive motors feedback devices (encoders), servo drives, industrial computers and more 
-Helped manage customer relationships by answering technical questions via the phone or over email
-Analyzed and explored methods to optimize standard work processes to improve the customer experience by identifying where there was friction in the process using a root cause analysis 
-Enhanced customer product knowledge by teaching them how to use Motioneering and Performance Curve Generators for initial motor sizing
+<ul>  
+<li>Assisted distributor accounts valued at multi-million dollars with application sizing and selection of AC Servo,  DC, direct drive motors feedback devices (encoders), servo drives, industrial computers and more</li>
+<li>Helped manage customer relationships by answering technical questions via the phone or over email</li>
+<li>Analyzed and explored methods to optimize standard work processes to improve the customer experience by identifying where there was friction in the process using a root cause analysis</li>
+<li>Enhanced customer product knowledge by teaching them how to use Motioneering and Performance Curve Generators for initial motor sizing</li>
+</ul>
+
 Assistant Instructor for Introduction to Engineering Design 		                  January 2020 – May 2021
 Washington University in St. Louis									               St. Louis, MO
-Assisted in the running of office hours and support lab hours by answering students’ questions and guiding them through difficult tasks
-Repaired and tested PiCars
+<ul>
+<li>Assisted in the running of office hours and support lab hours by answering students’ questions and guiding them through difficult tasks</li>
+<li>Repaired and tested PiCars</li>
+
 Grader for Operations Research 						              August 2020 – January 2021
 Washington University in St. Louis									               St. Louis, MO
-Reviewed solution sets 
-Assisted in grading weekly assignments for a class of over 50 students 
+<ul>
+<li>Reviewed solution sets</li> 
+<li>Assisted in grading weekly assignments for a class of over 50 students</li> 
+</ul>
+# Clubs, Volunteering, and Leadership Experience
 
-Delivery Driver  								              August 2017 -  August 2018
-Panera Bread	                                                                                                                 Richmond and Lynchburg, VA
-Ensured customer orders were complete, and delivered them in a timely manner
-Periodically, cleaned tables and common spaces to ensure customer experience
-Completed food prep tasks in a timely manner to keep the line well stocked
-Washed dishes and performed behind the counter cleaning during slow periods
-Laborer                                                                                                                     Summer Job (2014, 2015, 2016)
-Old Dominion Abatement & Demolition                                                                                                      Richmond, VA                                                                                                                            
-Safely removed material during selective demolition on site with crew mates
-Participated in site meetings with project manager
-Replaced insulation on steam pipes
-Abated mold and fungus in hospital setting
-Complied with OSHA safety guidelines for PPE and site maintenance
-Clubs, Volunteering, and Leadership Experience
 Student Chair of SciFest & President of Society of Physics Students                    Academic Year of 2016-2017
 Randolph College                                                                                                                                                                 Lynchburg, VA                                                           
 Led the organization of a science outreach program that drew over 3000+ local  residents to a multi-day educational tour of science demonstrations, interactive exhibits, local business, and a makers fair
