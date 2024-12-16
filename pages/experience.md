@@ -51,13 +51,14 @@ Washington University in St. Louis									               St. Louis, MO
 <ul>
 <li>Assisted in the running of office hours and support lab hours by answering students’ questions and guiding them through difficult tasks</li>
 <li>Repaired and tested PiCars</li>
-
+</ul>
 Grader for Operations Research 						              August 2020 – January 2021
 Washington University in St. Louis									               St. Louis, MO
 <ul>
 <li>Reviewed solution sets</li> 
 <li>Assisted in grading weekly assignments for a class of over 50 students</li> 
 </ul>
+
 # Clubs, Volunteering, and Leadership Experience
 
 Student Chair of SciFest & President of Society of Physics Students                    Academic Year of 2016-2017
@@ -87,7 +88,7 @@ Assisted the Physic Department with running their online physics course by handl
 Worked on developing a Gust Microcosm for the Environmental Science department by using NI Labview to control a DC motor and pump. Develop an interface to communicate with a turbidity sensor over serial port
 Performed data mining using SAS on data from the National Automotive Sampling System (NASS) to examine the safety of rear seated passengers in car crash
 # Education
-EDUCATION 
+
 
 Washington University in St.Louis					                     	                               May, 2021 
 BS, System Science and Engineering 				   			                           St. Louis, MO
