@@ -100,7 +100,7 @@ The David H. Levy Award for Distinguished Service (2021), Outstanding Junior Awa
 <p><b>BS, Physics with Minors in Mathematics and History</b><br>				   			            
 Randolph College in Lynchburg, VA<br>
 May, 2019<br>
-<b>Awards and Honors</b> 
+<b>Awards and Honors</b><br> 
 Physics & Engineering Senior Major Award (2019), Outstanding Engineer Award (2016), GPA 3.6/4.0,Dean’s List: 2019, 2018, SUPER Program (2019), Sigma Xi (Research, 2019), Phi Alpha Theta (History, 2017), Sigma Pi Sigma (Physics, 2016)<br>
 </p>
 <b>Coursework & Training:</b> 
