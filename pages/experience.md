@@ -91,20 +91,18 @@ Performed data mining using SAS on data from the National Automotive Sampling Sy
 
 # Education
 					                     	                               
-<p><b>BS, System Science and Engineering</b>
+<p><b>BS, System Science and Engineering</b><br>
 Washington University in St.Louis<br>
 May, 2021<br>
-<b>Awards and Honors</b> 				   			                           
-The David H. Levy Award for Distinguished Service (2021), Outstanding Junior Award (2020), GPA 3.8/4.0, Dean’s List 2021, 2020<br>
+<b>Awards and Honors</b><br> 				   			                           
+The David H. Levy Award for Distinguished Service (2021), Outstanding Junior Award (2020), GPA 3.8/4.0, Dean’s List: 2021, 2020<br>
 </p>					                     	                                                       
-<b>BS, Physics with Minors in Mathematics and History</b>				   			            
-Randolph College in Lynchburg, VA
-May, 2019
+<p><b>BS, Physics with Minors in Mathematics and History</b><br>				   			            
+Randolph College in Lynchburg, VA<br>
+May, 2019<br>
 <b>Awards and Honors</b> 
-Physics & Engineering Senior Major Award (2019), Outstanding Engineer Award (2016), GPA 3.6/4.0
-Dean’s List 2019, 2018
-SUPER Program (2019), Sigma Xi (Research, 2019), Phi Alpha Theta (History, 2017), Sigma Pi Sigma (Physics, 2016)
-
+Physics & Engineering Senior Major Award (2019), Outstanding Engineer Award (2016), GPA 3.6/4.0,Dean’s List: 2019, 2018, SUPER Program (2019), Sigma Xi (Research, 2019), Phi Alpha Theta (History, 2017), Sigma Pi Sigma (Physics, 2016)<br>
+</p>
 <b>Coursework & Training:</b> 
 <ul>
 <li>Signals & System</li> 
