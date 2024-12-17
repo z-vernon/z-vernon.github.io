@@ -103,8 +103,8 @@ May, 2019<br>
 <b>Awards and Honors</b><br> 
 Physics & Engineering Senior Major Award (2019), Outstanding Engineer Award (2016), GPA 3.6/4.0,Dean’s List: 2019, 2018, SUPER Program (2019), Sigma Xi (Research, 2019), Phi Alpha Theta (History, 2017), Sigma Pi Sigma (Physics, 2016)<br>
 </p>
-<b>Coursework & Training:</b> 
 <ul>
+<b>Coursework & Training:</b> 
 <li>Signals & System</li> 
 <li>MATLAB & LabView</li> 
 <li>Mathematical Methods</li> 
