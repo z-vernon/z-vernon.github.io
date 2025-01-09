@@ -13,7 +13,7 @@ permalink: /experience
 
 <b>GI Data Communication Engineer I </b> 
 <b>July 2023 – Present</b> 
-<b>Dominion Energy, Richmond,VA <b>  
+<b>Dominion Energy, Richmond,VA </b>  
                                                                                                
 <ul>
 <li>Experience with Solar Integration working on transmission and distribution level solar sites.</li>
