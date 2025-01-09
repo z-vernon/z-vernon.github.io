@@ -10,10 +10,7 @@ permalink: /experience
 <img class="img" src="/assets/img/SCADA.PNG" alt="WZV" width="593" height="300">
 
 # Experience
-
-<b>GI Data Communication Engineer I </b> 
-<b>July 2023 – Present</b> 
-<b>Dominion Energy, Richmond,VA </b>  
+ 
 <b>GI Data Communication Engineer I</b>   							                          
 <b>July 2023 – Present</b>  
 <b>Dominion Energy, Richmond,VA</b> 
