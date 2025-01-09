@@ -14,9 +14,9 @@ permalink: /experience
 <b>GI Data Communication Engineer I </b> 
 <b>July 2023 – Present</b> 
 <b>Dominion Energy, Richmond,VA </b>  
-<b>R&D Design Engineer</b>   							                          
-<b>April 2022 – Present</b>  
-<b>Self-Employed(Part Time), Richmond, VA</b> 
+<b>GI Data Communication Engineer I</b>   							                          
+<b>July 2023 – Present</b>  
+<b>Dominion Energy, Richmond,VA</b> 
 <ul>
 <li>Experience with Solar Integration working on transmission and distribution level solar sites.</li>
 <li>Understanding of system protection philosophies and applications</li>
