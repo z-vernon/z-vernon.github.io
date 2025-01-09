@@ -8,10 +8,13 @@ permalink: /experience
 ---
 
 <img class="img" src="/assets/img/SCADA.PNG" alt="WZV" width="593" height="300">
+
 # Experience
+
 <b>GI Data Communication Engineer I </b> 
 <b>July 2023 – Present</b> 
-<b>Dominion Energy, Richmond,VA </b>                                                                                                        
+<b>Dominion Energy, Richmond,VA <b>  
+                                                                                               
 <ul>
 <li>Experience with Solar Integration working on transmission and distribution level solar sites.</li>
 <li>Understanding of system protection philosophies and applications</li>
