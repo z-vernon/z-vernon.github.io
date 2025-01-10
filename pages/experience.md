@@ -109,7 +109,7 @@ Led the organization of a science outreach program that drew over 3000+ local  r
 Periodically, meet with local makerspace to coordinate needs for the maker fair that took place on the last day of the event
 Scheduled and delivered training sessions to 150+ volunteers on child safety, what systems were in place, specific softwares to use and who to talk to if unexpected issues arose
 Performed on-site management and admin to ensure that the 150+ volunteers were following their training, answering questions that volunteers, parents, or local authorities had about the events of the day,managed volunteer attendance and scheduling, and the logistic of event setup and tear down
-
+</ul>
 <b>Build Master of Society of Physics Students</b>
 <b>Academic Year of 2015-2016</b>
 <b>Randolph College,Lynchburg, VA</b>
@@ -133,7 +133,7 @@ Led designing and construction of the frame and electrical component layout and,
 <b>Summer Research Program (2019,2016,2015)</b>
 <b>Randolph College, Lynchburg, VA</b>
 <ul>  
-Assisted the Physic Department with running their online physics course by handling the logistics of providing the students with lab kits. Additionally inventoried Physics department labs, organized ,and repaired equipment
+Assisted the Physic Department with running their online physics course by handling the logistics of providing the students with lab kits Additionally inventoried Physics department labs, organized ,and repaired equipment
 Worked on developing a Gust Microcosm for the Environmental Science department by using NI Labview to control a DC motor and pump. Develop an interface to communicate with a turbidity sensor over serial port
 Performed data mining using SAS on data from the National Automotive Sampling System (NASS) to examine the safety of rear seated passengers in car crash
 </ul>
