@@ -100,19 +100,19 @@ Physics & Engineering Senior Major Award (2019), Outstanding Engineer Award (201
 
 # Clubs, Volunteering, and Leadership Experience
 	
-<b>Student Chair of SciFest & President of Society of Physics Students</b>                    
+<b>Student Chair of SciFest & President of Society of Physics Students</b>
 <b>Academic Year of 2016-2017</b>
-<b>Randolph College, Lynchburg, VA</b>                                                           
+<b>Randolph College, Lynchburg, VA</b>
 Led the organization of a science outreach program that drew over 3000+ local  residents to a multi-day educational tour of science demonstrations, interactive exhibits, local business, and a makers fair
  Held weekly team meetings with 7+ interdisciplinary student volunteers to delegate tasks and ensure projects were being completed by deadlines and that the overall timeline of the event was met. Volunteer positions included child safety, event set up, attendance coordination, local business outreach, vendor scheduling, social media outreach and local permitting
 Periodically, meet with local makerspace to coordinate needs for the maker fair that took place on the last day of the event
 Scheduled and delivered training sessions to 150+ volunteers on child safety, what systems were in place, specific softwares to use and who to talk to if unexpected issues arose
 Performed on-site management and admin to ensure that the 150+ volunteers were following their training, answering questions that volunteers, parents, or local authorities had about the events of the day,managed volunteer attendance and scheduling, and the logistic of event setup and tear down
 
-<b>Build Master of Society of Physics Students</b>                                                            
-<b>Academic Year of 2015-2016</b>                                                                                              
+<b>Build Master of Society of Physics Students</b>
+<b>Academic Year of 2015-2016</b>
 <b>Randolph College,Lynchburg, VA</b>
-Established Workshop                                                                                                                                                          
+Established Workshop
 Worked with the head of physics department to find location which was the basement of the Observatory 
 Cleaned basement and created list of needed tools and materials
 Wrote RISE grant for purchase of metal lathe and mill
