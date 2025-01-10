@@ -99,17 +99,19 @@ Physics & Engineering Senior Major Award (2019), Outstanding Engineer Award (201
 </ul>
 
 # Clubs, Volunteering, and Leadership Experience
-
-Student Chair of SciFest & President of Society of Physics Students                    Academic Year of 2016-2017
-Randolph College                                                                                                                                                                 Lynchburg, VA                                                           
+	
+<b>Student Chair of SciFest & President of Society of Physics Students</b>                    
+<b>Academic Year of 2016-2017</b>
+<b>Randolph College, Lynchburg, VA</b>                                                           
 Led the organization of a science outreach program that drew over 3000+ local  residents to a multi-day educational tour of science demonstrations, interactive exhibits, local business, and a makers fair
  Held weekly team meetings with 7+ interdisciplinary student volunteers to delegate tasks and ensure projects were being completed by deadlines and that the overall timeline of the event was met. Volunteer positions included child safety, event set up, attendance coordination, local business outreach, vendor scheduling, social media outreach and local permitting
 Periodically, meet with local makerspace to coordinate needs for the maker fair that took place on the last day of the event
 Scheduled and delivered training sessions to 150+ volunteers on child safety, what systems were in place, specific softwares to use and who to talk to if unexpected issues arose
 Performed on-site management and admin to ensure that the 150+ volunteers were following their training, answering questions that volunteers, parents, or local authorities had about the events of the day,managed volunteer attendance and scheduling, and the logistic of event setup and tear down
 
-Build Master of Society of Physics Students                                                            Academic Year of 2015-2016                                                                                              
-Randolph College                                                                                                                                                                 Lynchburg, VA
+<b>Build Master of Society of Physics Students</b>                                                            
+<b>Academic Year of 2015-2016</b>                                                                                              
+<b>Randolph College,Lynchburg, VA</b>
 Established Workshop                                                                                                                                                          
 Worked with the head of physics department to find location which was the basement of the Observatory 
 Cleaned basement and created list of needed tools and materials
@@ -123,8 +125,9 @@ Wrote a RISE Grant  grant to fund purchase of parts and equipment
 Led designing and construction of the frame and electrical component layout and, then lead assembly and assisted in PID controller tuning
 Research Experience
 
-Student Assistant and Researcher				         Summer Research Program (2019,2016,2015)
-Randolph College 								                                     Lynchburg, VA
+<b>Student Assistant and Researcher</b>				         
+<b>Summer Research Program (2019,2016,2015)</b>
+<b>Randolph College, Lynchburg, VA</b>
 Assisted the Physic Department with running their online physics course by handling the logistics of providing the students with lab kits. Additionally inventoried Physics department labs, organized ,and repaired equipment
 Worked on developing a Gust Microcosm for the Environmental Science department by using NI Labview to control a DC motor and pump. Develop an interface to communicate with a turbidity sensor over serial port
 Performed data mining using SAS on data from the National Automotive Sampling System (NASS) to examine the safety of rear seated passengers in car crash
