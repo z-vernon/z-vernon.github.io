@@ -116,9 +116,9 @@ Performed on-site management and admin to ensure that the 150+ volunteers were f
 parents, or local authorities had about the events of the day,managed volunteer attendance and scheduling, and the logistic of event setup and 
 tear down
 </ul>
-<b>Build Master of Society of Physics Students</b>
-<b>Academic Year of 2015-2016</b>
-<b>Randolph College,Lynchburg, VA</b>
+<b>Build Master of Society of Physics Students</b>                                                                                                 
+<b>Academic Year of 2015-2016</b>                                                                                                                  
+<b>Randolph College,Lynchburg, VA</b>                                                                                                              
 <ul>  
 Established Workshop
 Worked with the head of physics department to find location which was the basement of the Observatory 
