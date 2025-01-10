@@ -100,9 +100,9 @@ Physics & Engineering Senior Major Award (2019), Outstanding Engineer Award (201
 
 # Clubs, Volunteering, and Leadership Experience
 	
-<b>Student Chair of SciFest & President of Society of Physics Students</b>
-<b>Academic Year of 2016-2017</b>
-<b>Randolph College, Lynchburg, VA</b>
+<b>Student Chair of SciFest & President of Society of Physics Students</b>                                                                        
+<b>Academic Year of 2016-2017</b>                                                                                                                  
+<b>Randolph College, Lynchburg, VA</b>                                                                                                             
 <ul>  
 Led the organization of a science outreach program that drew over 3000+ local  residents to a multi-day educational tour of science
 demonstrations, interactive exhibits, local business, and a makers fair
