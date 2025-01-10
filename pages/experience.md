@@ -126,14 +126,3 @@ Omnidirectional Robot
 Wrote a RISE Grant  grant to fund purchase of parts and equipment
 Led designing and construction of the frame and electrical component layout and, then lead assembly and assisted in PID controller tuning
 </ul>
-
-# Research Experience
-
-<b>Student Assistant and Researcher</b>				         
-<b>Summer Research Program (2019,2016,2015)</b>
-<b>Randolph College, Lynchburg, VA</b>
-<ul>  
-Assisted the Physic Department with running their online physics course by handling the logistics of providing the students with lab kits Additionally inventoried Physics department labs, organized ,and repaired equipment
-Worked on developing a Gust Microcosm for the Environmental Science department by using NI Labview to control a DC motor and pump. Develop an interface to communicate with a turbidity sensor over serial port
-Performed data mining using SAS on data from the National Automotive Sampling System (NASS) to examine the safety of rear seated passengers in car crash
-</ul>
