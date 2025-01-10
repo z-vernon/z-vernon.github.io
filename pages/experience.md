@@ -52,8 +52,8 @@ permalink: /experience
 <li>Assisted in the running of office hours and support lab hours by answering students’ questions and guiding them through difficult tasks</li>
 <li>Repaired and tested PiCars</li>
 </ul>
-<b>Grader for Operations Research</b> 						              
-<b>August 2020 – January 2021</b>
+<b>Grader for Operations Research</b>     		                  
+<b>August 2020 – January 2021</b>    
 <b>Washington University in St. Louis</b>									             
 <ul>
 <li>Reviewed solution sets</li> 
