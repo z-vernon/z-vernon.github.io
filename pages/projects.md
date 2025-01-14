@@ -27,4 +27,4 @@ This page contains project that demostrate my technical skills. Please reach out
 
 # Home Automation SCADA (Ignition Maker) - Progress
 
-<img class="img" src="/assets/img/Underconstruction.png" alt="WZV" width="500" height="200">
+<img class="img" src="/assets/img/Under_construction_icon-yellow.svg" alt="WZV" width="500" height="200">
