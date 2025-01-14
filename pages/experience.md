@@ -104,32 +104,32 @@ Physics & Engineering Senior Major Award (2019), Outstanding Engineer Award (201
 <b>Academic Year of 2016-2017</b>                                                                                                                  
 <b>Randolph College, Lynchburg, VA</b>                                                                                                             
 <ul>  
-Led the organization of a science outreach program that drew over 3000+ local  residents to a multi-day educational tour of science
-demonstrations, interactive exhibits, local business, and a makers fair
-Held weekly team meetings with 7+ interdisciplinary student volunteers to delegate tasks and ensure projects were being completed by deadlines
-and that the overall timeline of the event was met. Volunteer positions included child safety, event set up, attendance coordination, local
-business outreach, vendor scheduling, social media outreach and local permitting
-Periodically, meet with local makerspace to coordinate needs for the maker fair that took place on the last day of the event
-Scheduled and delivered training sessions to 150+ volunteers on child safety, what systems were in place, specific softwares to use and who to
-talk to if unexpected issues arose
-Performed on-site management and admin to ensure that the 150+ volunteers were following their training, answering questions that volunteers,
+<li>Led the organization of a science outreach program that drew over 3000+ local  residents to a multi-day educational tour of science
+demonstrations, interactive exhibits, local business, and a makers fair</li>
+<li>Held weekly team meetings with 7+ interdisciplinary student volunteers to delegate tasks and ensure projects were being completed by deadlines
+and that the overall timeline of the event was met</li> 
+<li>Volunteer positions included child safety, event set up, attendance coordination, local
+business outreach, vendor scheduling, social media outreach and local permitting</li>
+<li>Periodically, meet with local makerspace to coordinate needs for the maker fair that took place on the last day of the event</li>
+<li>Scheduled and delivered training sessions to 150+ volunteers on child safety, what systems were in place, specific softwares to use and who to
+talk to if unexpected issues arose</li>
+<li>Performed on-site management and admin to ensure that the 150+ volunteers were following their training, answering questions that volunteers,
 parents, or local authorities had about the events of the day,managed volunteer attendance and scheduling, and the logistic of event setup and 
-tear down
+tear down</li>
 </ul>
 <b>Build Master of Society of Physics Students</b>                                                                                                 
 <b>Academic Year of 2015-2016</b>                                                                                                                  
 <b>Randolph College,Lynchburg, VA</b>                                                                                                              
 <ul>  
-Established Workshop
-Worked with the head of physics department to find location which was the basement of the Observatory 
-Cleaned basement and created list of needed tools and materials
-Wrote RISE grant for purchase of metal lathe and mill
-Led build days to set up workshop
-Led safety training sessions
-Global Space Balloon Challenge         
-Designed and built the rig and payload to resist the cold that was then attached to the space balloon. Payload included a Raspberry Pi tracking 
-beacon that used GSM cellular networks to relay location data
-Omnidirectional Robot                                         
-Wrote a RISE Grant  grant to fund purchase of parts and equipment
-Led designing and construction of the frame and electrical component layout and, then lead assembly and assisted in PID controller tuning
+<li>Established Workshop</li>
+<li>Worked with the head of physics department to find location which was the basement of the Observatory</li> 
+<li>Cleaned basement and created list of needed tools and materials</li>
+<li>Wrote RISE grant for purchase of metal lathe and mill</li>
+<li>Led build days to set up workshop</li>
+<li>Led safety training sessions</li>
+</ul> 
+<ul>   
+<b>Omnidirectional Robot</b>                                         
+<li>Wrote a RISE Grant  grant to fund purchase of parts and equipment</li>
+<li>Led designing and construction of the frame and electrical component layout and, then lead assembly and assisted in PID controller tuning</li>
 </ul>
