@@ -16,7 +16,7 @@ I am always trying to learn new things and develop exisiting skils.
   <li>Programming: Python,Javascript,Matlab & Simulink,Structured Text</li>
   <li>Protcals: DNP3, Modbus/TCP, SEL Fast Messaging, </li>
   <li>HMI: SEL,EXOR </li>
-  <li>RTU/PLC: SEL RTAC,Kollmorgen,Omron,Allen Bradley</li>
+  <li>RTU/PLC: SEL RTAC</li>
   <li>CAD: Solidworks,Fusion 360</li>
   <li>Tools: Oscilloscopes, Multimeters, and Signal generators</li>
   <li>Certificates: Subnet - Substation Server 2 and DNP3 & ASE2000 Training</li>
