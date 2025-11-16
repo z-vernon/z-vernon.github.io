@@ -11,8 +11,8 @@ permalink: /experience
 
 # Experience
  
-<b>GI Data Communication Engineer I</b>   							                          
-<b>July 2023 – May 2025/b>  
+<b>I&C / DCS Start Up and Commissioning Engineer</b>   							                          
+<b>May 2025 - Present</b>  
 <b>Dominion Energy, Richmond,VA</b>
 <ul>
 <li>Hands-on commissioning of the Distributed Control System, Instrumentation and Control systems and process systems, of combined cycle power plants and power plant solutions for the energy transition on new construction sites up to handover to the customer</li>
@@ -20,7 +20,7 @@ permalink: /experience
 <li>Collaborated with internal team members, coordinated with external partners and sub-contractors, and interacted with customers on a daily basis</li>
 </ul>
 <b>GI Data Communication Engineer I</b>   							                          
-<b>July 2023 – May 2025/b>  
+<b>July 2023 – May 2025</b>  
 <b>Dominion Energy, Richmond,VA</b> 
 <ul>
 <li>Experience with Solar Integration working on transmission and distribution level solar sites</li>
