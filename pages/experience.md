@@ -13,7 +13,7 @@ permalink: /experience
  
 <b>I&C / DCS Start Up and Commissioning Engineer</b>   							                          
 <b>May 2025 - Present</b>  
-<b>Dominion Energy, Richmond,VA</b>
+<b>Siemens Energy, Richmond,VA</b>
 <ul>
 <li>Hands-on commissioning of the Distributed Control System, Instrumentation and Control systems and process systems, of combined cycle power plants and power plant solutions for the energy transition on new construction sites up to handover to the customer</li>
 <li>Carrying out tests on protection and control systems, as well as control optimization using Siemens Energy DCS OMNIVISE T3000</li>
