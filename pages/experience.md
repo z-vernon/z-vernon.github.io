@@ -12,10 +12,18 @@ permalink: /experience
 # Experience
  
 <b>GI Data Communication Engineer I</b>   							                          
-<b>July 2023 – Present</b>  
+<b>July 2023 – May 2025/b>  
+<b>Dominion Energy, Richmond,VA</b>
+<ul>
+<li>Hands-on commissioning of the Distributed Control System, Instrumentation and Control systems and process systems, of combined cycle power plants and power plant solutions for the energy transition on new construction sites up to handover to the customer</li>
+<li>Carrying out tests on protection and control systems, as well as control optimization using Siemens Energy DCS OMNIVISE T3000</li>
+<li>Collaborated with internal team members, coordinated with external partners and sub-contractors, and interacted with customers on a daily basis</li>
+</ul>
+<b>GI Data Communication Engineer I</b>   							                          
+<b>July 2023 – May 2025/b>  
 <b>Dominion Energy, Richmond,VA</b> 
 <ul>
-<li>Experience with Solar Integration working on transmission and distribution level solar sites.</li>
+<li>Experience with Solar Integration working on transmission and distribution level solar sites</li>
 <li>Understanding of system protection philosophies and applications</li>
 <li>Developed HMI for transmission level sites and created templates to assist in standardization</li>
 <li>Assisted in software-defined networking (SDN) deployment by testing configurations in lab</li>
